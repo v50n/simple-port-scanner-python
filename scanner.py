@@ -9,6 +9,6 @@ for i in range(1,10000):
     if s_port == 0:
         print("port : ",i," is Online")
     else:
-            print("port : ",i," is closed")
+        print("port : ",i," is closed")
     s.close()
                 
